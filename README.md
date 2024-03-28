@@ -22,3 +22,4 @@ learning tasks. It yields an approximate of 80% accuracy over all 7 of the disea
 *The deep learning model is a Convolutional Neural Network with 2 two fully connected layers and 2 convolutional layers. The input shape is 3 units, it has 7 hidden units, and an output shape of 7
 because of number of classes. The architecture may be changed later to optimize results.* Below is a basic diagram of a convolutional neural network simlar to this.
 
+[Dental Disease Classifier - PyTorch Convolutional Neural Network (2).pdf](https://github.com/Krish-mal15/Dental-Disease-X-Ray-Classifier-CNN-PyTorch/files/14795751/Dental.Disease.Classifier.-.PyTorch.Convolutional.Neural.Network.2.pdf)
