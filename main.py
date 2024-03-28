@@ -4,6 +4,7 @@ from PIL import Image
 from train import DentalModel  # Import your model class
 
 model = DentalModel(3, 7, 7)
+# Parameters of this model
 model.load_state_dict(torch.load('dental_cnn.pth'))
 model.eval()
 
